@@ -1,0 +1,19 @@
+{
+  "hash": "63f308bd00a4ed6f627d39573060e7da",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Annotations\"\ndate: \"2024-07-01\"\ndate_end: \"2024-07-05\"\n---\n\n\n\n\n\n\n## Readings\n\n- {{< fa book >}} [Chapter 17](https://clauswilke.com/dataviz/redundant-coding.html), [Chapter 18](https://clauswilke.com/dataviz/multi-panel-figures.html), [Chapter 19](https://clauswilke.com/dataviz/figure-titles-captions.html), and [Chapter 21](https://clauswilke.com/dataviz/small-axis-labels.html) in *Fundamentals of Data Visualization* [@Wilke:2018]\n- {{< fa book >}} [Chapter 5](http://socviz.co/workgeoms.html) in *Data Visualization* [@Healy:2018]\n- {{< fa arrow-up-right-from-square >}} Cara Thompson, [\"Level Up Your Labels: Tips and Tricks for Annotating Plots\"](https://www.cararthompson.com/talks/user2022)\n\n\n## Slides\n\nThe slides for this week's lesson are available online as an HTML file. Use the buttons below to open the slides either as an interactive website or as a static PDF (for printing or storing for later). You can also click in the slides below and navigate through them with your left and right arrow keys.\n\n\n\n\n<p class=\"text-center buttons\"><a class=\"btn btn-danger\" target=\"_blank\" href=\"/slides/09-slides.html\"><i class=\"fa-solid fa-arrow-up-right-from-square\"></i> View all slides in new window</a> <a class=\"btn btn-danger\" target=\"_blank\" href=\"/slides/09-slides.pdf\" role=\"button\"><i class=\"fa-solid fa-file-pdf\"></i> Download PDF of all slides</a></p>\n\n```{=html}\n<div class=\"shareagain\" style=\"min-width:300px;margin:0 auto;\" data-exeternal=\"1\">\n<iframe src=\"/slides/09-slides.html\" width=\"1600\" height=\"900\" style=\"border:none;\" loading=\"lazy\" allowfullscreen></iframe>\n<script>fitvids('.shareagain', {players: 'iframe'});</script>\n</div>\n```\n\n\n\n\n:::{.callout-tip}\n**Fun fact**: If you type <kbd>?</kbd> (or <kbd>shift</kbd> + <kbd>/</kbd>) while going through the slides, you can see a list of special slide-specific commands.\n:::\n\n\n## Videos\n\n\n\n\nVideos for each section of the lecture are [available at this YouTube playlist](https://www.youtube.com/playlist?list=PLS6tnpTr39sG4NCNqLqHhIE7khPgrdRJD).\n\n- [Introduction](https://www.youtube.com/watch?v=1c51k2tmjBI&list=PLS6tnpTr39sG4NCNqLqHhIE7khPgrdRJD)\n- [Fretting the little things](https://www.youtube.com/watch?v=6p4K5_6KU9k&list=PLS6tnpTr39sG4NCNqLqHhIE7khPgrdRJD)\n- [Text in plots](https://www.youtube.com/watch?v=fdR78oXb_fI&list=PLS6tnpTr39sG4NCNqLqHhIE7khPgrdRJD)\n- [Seeds](https://www.youtube.com/watch?v=lV_Qak75E6I&list=PLS6tnpTr39sG4NCNqLqHhIE7khPgrdRJD)\n\nYou can also watch the playlist (and skip around to different sections) here:\n\n<div class=\"ratio ratio-16x9\">\n<iframe src=\"https://www.youtube.com/embed/playlist?list=PLS6tnpTr39sG4NCNqLqHhIE7khPgrdRJD\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n</div>\n\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {
+      "include-in-header": [
+        "<script src=\"../site_libs/fitvids-2.1.1/fitvids.min.js\"></script>\n"
+      ]
+    },
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

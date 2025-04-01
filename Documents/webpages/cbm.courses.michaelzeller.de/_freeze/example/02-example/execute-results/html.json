@@ -1,0 +1,15 @@
+{
+  "hash": "99c167d38dc94d8979843fdb952736a5",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Graphic design\"\ndate: \"2024-06-03\"\ndate_end: \"2024-06-07\"\n---\n\n\n\n\nFor this example, I'm going to critique and improve this random flyer I found posted in the BYU library in September 2018:\n\n\n\n\n::: {.cell layout-align=\"center\"}\n::: {.cell-output-display}\n![](../../../../../../projects/02-example/original-from-hbll.jpg){fig-align='center' width=50%}\n:::\n:::\n\n\n\n\nIt's not the best designed poster, but it's incredibly typical of what you see in the real world. By applying the principles of CRAP, we can improve the poster significantly.\n\nIf you download and unzip this file, you can follow along too (but you don't have to—you can just sit back and enjoy the ride).\n\n- [{{< fa file-archive >}} `02-example.zip`](/projects/02-example.zip)\n\n## Critique\n\n<div class=\"ratio ratio-16x9\">\n<iframe src=\"https://www.youtube.com/embed/K0sd-j6eMiI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\"></iframe>\n</div>\n\n## Redesign in Canva\n\n<div class=\"ratio ratio-16x9\">\n<iframe src=\"https://www.youtube.com/embed/G1857weuvIc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\"></iframe>\n</div>\n\n## Redesign in Illustrator\n\n<div class=\"ratio ratio-16x9\">\n<iframe src=\"https://www.youtube.com/embed/5Z8FQtDVlYQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\"></iframe>\n</div>\n\n## Final versions\n\n\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](../../../../../../files/img/examples/combined-output@2x.png){width=100%}\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

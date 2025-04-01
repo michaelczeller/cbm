@@ -1,0 +1,19 @@
+{
+  "hash": "0511ce2d3fd36029ef45869888d94f1c",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Mapping data to graphics\"\ndate: \"2024-06-10\"\ndate_end: \"2024-06-14\"\n---\n\n\n\n\n\n\n## Readings\n\n- {{< fa brands youtube >}} Hans Rosling, [\"200 Countries, 200 Years, 4 Minutes\"](https://www.youtube.com/watch?v=jbkSRLYSojo)\n- {{< fa book >}} [Chapter 2](https://clauswilke.com/dataviz/aesthetic-mapping.html) in *Fundamentals of Data Visualization* [@Wilke:2018]\n- {{< fa book >}} [Chapter 3](http://socviz.co/makeplot.html) in *Data Visualization* [@Healy:2018]\n\n### Possible questions to reflect on\n\n::: {.callout-warning}\n#### This is not a required list!\n\nRemember, you don't need to answer all of these—or even any of them! These are just here to help guide your thinking. **Write about whatever you want.**\n:::\n\n- Why is it important to visualize variables and data?\n- What does it mean to map data to graph aesthetics?\n- What data was mapped to which aesthetics in Rosling's video?\n\n## Other resources\n\n[This tutorial by Cédric Scherer](https://www.cedricscherer.com/2019/05/17/the-evolution-of-a-ggplot-ep.-1/) is an excellent demonstration of the grammar of graphics and the sequential nature of building up a plot layer-by-layer.\n\n\n## Slides\n\nThe slides for this week's lesson are available online as an HTML file. Use the buttons below to open the slides either as an interactive website or as a static PDF (for printing or storing for later). You can also click in the slides below and navigate through them with your left and right arrow keys.\n\n\n\n\n<p class=\"text-center buttons\"><a class=\"btn btn-danger\" target=\"_blank\" href=\"/slides/03-slides.html\"><i class=\"fa-solid fa-arrow-up-right-from-square\"></i> View all slides in new window</a> <a class=\"btn btn-danger\" target=\"_blank\" href=\"/slides/03-slides.pdf\" role=\"button\"><i class=\"fa-solid fa-file-pdf\"></i> Download PDF of all slides</a></p>\n\n```{=html}\n<div class=\"shareagain\" style=\"min-width:300px;margin:0 auto;\" data-exeternal=\"1\">\n<iframe src=\"/slides/03-slides.html\" width=\"1600\" height=\"900\" style=\"border:none;\" loading=\"lazy\" allowfullscreen></iframe>\n<script>fitvids('.shareagain', {players: 'iframe'});</script>\n</div>\n```\n\n\n\n\n:::{.callout-tip}\n**Fun fact**: If you type <kbd>?</kbd> (or <kbd>shift</kbd> + <kbd>/</kbd>) while going through the slides, you can see a list of special slide-specific commands.\n:::\n\n\n## Videos\n\n\n\n\nVideos for each section of the lecture are [available at this YouTube playlist](https://www.youtube.com/playlist?list=PLS6tnpTr39sF-mpzuaQaDw5VoOgp359Z9).\n\n- [Introduction](https://www.youtube.com/watch?v=ukDGvD3XXHg&list=PLS6tnpTr39sF-mpzuaQaDw5VoOgp359Z9)\n- [Data, aesthetics, and the grammar of graphics](https://www.youtube.com/watch?v=S56YAocj-hk&list=PLS6tnpTr39sF-mpzuaQaDw5VoOgp359Z9)\n- [Grammatical layers](https://www.youtube.com/watch?v=DVr8ubJ7JHk&list=PLS6tnpTr39sF-mpzuaQaDw5VoOgp359Z9)\n- [Aesthetics in extra dimensions](https://www.youtube.com/watch?v=pfYkWZcTHAM&list=PLS6tnpTr39sF-mpzuaQaDw5VoOgp359Z9)\n- [Tidy data](https://www.youtube.com/watch?v=KHpZ1oa_99g&list=PLS6tnpTr39sF-mpzuaQaDw5VoOgp359Z9)\n\nYou can also watch the playlist (and skip around to different sections) here:\n\n<div class=\"ratio ratio-16x9\">\n<iframe src=\"https://www.youtube.com/embed/playlist?list=PLS6tnpTr39sF-mpzuaQaDw5VoOgp359Z9\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n</div>\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {
+      "include-in-header": [
+        "<script src=\"../site_libs/fitvids-2.1.1/fitvids.min.js\"></script>\n"
+      ]
+    },
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
